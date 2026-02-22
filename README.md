@@ -31,7 +31,7 @@ cd calculator-app
 open index.html
 ```
 
-Or simply visit: **[Live Demo](https://stevenhuang33.github.io/calculator-app)** *(if GitHub Pages is enabled)*
+Or simply visit the **[Live Demo](https://stevenhuang33.github.io/calculator-app)** 🚀
 
 ## ⌨️ Keyboard Shortcuts
 
