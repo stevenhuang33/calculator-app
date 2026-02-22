@@ -9,14 +9,27 @@ A modern, responsive calculator web app with full keyboard support.
 
 ## ✨ Features
 
+### Basic Mode
 - ✅ **Basic Operations**: Addition, Subtraction, Multiplication, Division
 - ⌨️ **Full Keyboard Support**: Use number keys, operators, Enter (=), Escape (clear), Backspace
 - 🖱️ **Mouse Click Support**: All buttons work with mouse clicks
+- 🔢 **Decimal Support**: Handle decimal numbers correctly
+
+### Scientific Mode 🔬
+- 📐 **Trigonometric Functions**: sin, cos, tan (in degrees)
+- 📊 **Logarithms**: log (base 10), ln (natural log)
+- √ **Square Root & Powers**: √x, x², x^y
+- 🔢 **Constants**: π (pi), e (Euler's number)
+- ➗ **Advanced Operations**: factorial (x!), inverse (1/x), absolute value (|x|)
+- 📈 **Exponential**: e^x, percentage (%)
+- ± **Negate**: Change sign of number
+
+### General Features
+- 🔄 **Mode Toggle**: Easy switch between Basic and Scientific modes
 - 📱 **Responsive Design**: Works on desktop, tablet, and mobile
 - 🎨 **Modern Dark Theme**: Beautiful gradient design with coral/purple accents
 - 🧮 **Two-Line Display**: Shows both the expression and current value
-- 🔢 **Decimal Support**: Handle decimal numbers correctly
-- ⚠️ **Error Handling**: Division by zero and overflow protection
+- ⚠️ **Error Handling**: Division by zero, invalid operations, and overflow protection
 
 ## 🚀 Quick Start
 
